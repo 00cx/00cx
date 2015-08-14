@@ -3,8 +3,8 @@ body {
   background-size: 100%;
   background-color: white;
 }
-img {
-  padding-top: 100px;
+div.flame {
+  padding-top: 30%;
   margin-left: auto;
   margin-right: auto;
 }
